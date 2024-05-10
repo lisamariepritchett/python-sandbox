@@ -1,7 +1,7 @@
 # python-sandbox
 
 ## ML Experiment Module
-The ml_experiment module provides two objects for stream lining machine learning development experiment workflows.
+The ml_experiment module provides two objects for streamlining machine learning development experiment workflows.
 
 The MLData class takes a Pandas dataframe with target and X fields specified and splits it into Train, Validation, and Test sets. This allows the Data Scientist to have one object containing all the data sets.
 
