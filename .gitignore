@@ -1,3 +1,5 @@
 __pycache__/ml_experiment.cpython-310.pyc
 .vscode/settings.json
 .vscode/launch.json
+__pycache__/*
+*.cpython*
