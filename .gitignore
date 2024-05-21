@@ -4,3 +4,4 @@ __pycache__/ml_experiment.cpython-310.pyc
 __pycache__/*
 *.cpython*
 token.txt
+scratch.py
